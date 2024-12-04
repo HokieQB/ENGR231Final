@@ -1,0 +1,12 @@
+Control a robotic arm with an Xbox Controller
+trigger	Controlls the claw	3	SLIDER	Z Axis	0	1.0	0.0
+bumperLeft	Claw tilt CCW	1	BUTTON	Button 4	0	0.0	0.0
+bumperRight	Claw tilt CW	1	BUTTON	Button 5	0	0.0	0.0
+leftStickY	Arm Up Down	3	SLIDER	Y Axis	0	1.0	0.0
+leftStickX	N/A	3	SLIDER	X Axis	0	1.0	0.0
+rightStickY	N/A	3	SLIDER	Y Rotation	0	1.0	0.0
+rightStickX	Horizontal Spin	3	SLIDER	X Rotation	0	1.0	0.0
+keyA	N/A	1	BUTTON	Button 0	0	0.0	0.0
+keyB	N/A	1	BUTTON	Button 1	0	0.0	0.0
+keyX	N/A	1	BUTTON	Button 2	0	0.0	0.0
+keyY	N/A	1	BUTTON	Button 3	0	0.0	0.0
